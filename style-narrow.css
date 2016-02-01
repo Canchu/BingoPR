@@ -1,0 +1,119 @@
+body {
+	font-size: 14pt;
+	letter-spacing: 0.035em;
+	line-height: 1.5em;
+}
+
+h1 {
+	font-size: 1.25em;
+}
+
+h2 {
+	font-size: 1.1em;
+	margin-bottom: 0.5em;
+}
+
+a:hover {
+    color: #000;
+    text-shadow: -1px 1px 5px #98FB98, 1px -1px 5px #98FB98;
+}
+
+/*index.html*/
+.button{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	padding: 10px 20px;
+	/*background: -moz-linear-gradient(
+		top,
+		#cc0044 0%,
+		#cc0044);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#cc0044),
+		to(#cc0044));*/
+	-moz-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	border: 3px solid #00ccbb;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.container {
+	padding: 0 2em 0 2em;
+}
+
+
+.centerpic{
+	width: 60%;
+	height: 70%;
+}
+
+.member{
+ font-size: 10pt;
+ letter-spacing: 0.1em;
+ line-height: 1.1em;
+ border-radius: 0.5em;
+ padding: 1.2em;
+}
+
+/*other*/
+#header {
+	margin-top: 3em;
+}
+
+#nav {
+	text-align: right;
+}
+
+#nav a {
+	margin-left: 2em;
+}
+
+#hero{
+	border-radius: 0.5em;
+	margin: 2em 0 2em 0;
+	padding: 3em 0 3em 0;
+}
+
+#hero h2 {
+	font-size: 2.5em;
+	margin-bottom: 0.75em;
+}
+
+#hero p {
+	font-size: 1.25em;
+	margin-bottom: 1.5em;
+}
+
+#hero_right{
+	border-radius: 0.5em;
+	margin: 3em 0 3em 0;
+	padding: 4em 0 4em 0;
+}
+
+#hero_right h2 {
+	font-size: 2.0em;
+}
+
+#hero_right p {
+	text-align: right;
+	font-size: 1.0em;
+	margin-bottom: 1.75em;
+}
+
+/*QandA*/
+
+#question, #answer{
+	font-size: 11pt
+}
+
+#question h2, #answer h2{
+	font-size: 18pt;
+}
+
+
+#footer {
+	margin: 3em 0 3em 0;
+}

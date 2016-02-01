@@ -1,0 +1,135 @@
+body {
+	font-size: 15pt;
+	letter-spacing: 0.035em;
+	line-height: 1.75em;
+}
+
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.25em;
+	margin-bottom: 0.75em;
+}
+
+a{
+    color: #03c;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+    transition: 0.5s;
+}
+ 
+a:hover {
+    color: #000;
+    text-shadow: -1px 1px 5px #98FB98, 1px -1px 5px #98FB98;
+}
+
+/*index.html*/
+.centerpic{
+	width: 60%;
+	height: 70%;
+}
+
+/*others*/
+#header {
+	margin-top: 3em;
+}
+
+#nav {
+	text-align: right;
+}
+
+#nav a {
+	margin-left: 2em;
+}
+
+
+#hero_right{
+	border-radius: 0.5em;
+	margin: 3em 0 3em 0;
+	padding: 4em 0 4em 0;
+}
+
+#hero_right h2 {
+	font-size: 2.0em;
+}
+
+#hero_right p {
+	text-align: right;
+	font-size: 1.0em;
+	margin-bottom: 1.75em;
+}
+
+
+#us {
+	text-align: :center;
+	border-radius: 0.5em;
+	margin: 0 0 0 0;
+	padding:130px 0;
+}
+
+#us p{
+	text-align: :center;
+
+}
+
+#twitter{
+	border-radius: 0.5em;
+	text-align: :center;
+	
+}
+
+#fb{
+	border-radius: 0.5em;
+	text-align: :center;
+	padding: 2em;
+	
+}
+
+#twitter p{
+	text-align: center;
+}
+
+/*QandA*/
+#question, #answer{
+	font-size: 12pt;
+}
+
+
+
+/*contact*/
+.member{
+	font-size: 10pt;
+	letter-spacing: 0.1em;
+	line-height: 1.1em;
+	border-radius: 0.5em;
+	padding: 1.5em;
+}
+
+#labpic, #labpic2{
+	
+	width: 500px;
+	height: 500px;
+	border-radius: 0.5em
+
+}
+
+
+
+
+}
+
+#footer {
+	margin: 3em 0 3em 0;
+}
+
+#footer a{
+	font-style: italic;
+}
+
+
+
